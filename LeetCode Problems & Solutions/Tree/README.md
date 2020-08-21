@@ -2,7 +2,7 @@
 |---|
 |[List of all Tree Problems on LeetCode](https://leetcode.com/problemset/all/?topicSlugs=tree)|  
 |[:white_check_mark: 94.	Binary Tree Inorder Traversal](    https://leetcode.com/problems/binary-tree-inorder-traversal)|  
-|[95. Unique Binary Search Trees II   ](https://leetcode.com/problems/unique-binary-search-trees-ii/)|
+|[95. Unique Binary Search Trees II   :white_check_mark:](https://leetcode.com/problems/unique-binary-search-trees-ii/)|
 |[ 96. Unique Binary Search Trees   ]( https://leetcode.com/problems/unique-binary-search-trees/)|
 |[ 98.	Validate Binary Search Tree    ](https://leetcode.com/problems/validate-binary-search-tree/ )|
 |[ 	99.	Recover Binary Search Tree    ](https://leetcode.com/problems/recover-binary-search-tree/)|
