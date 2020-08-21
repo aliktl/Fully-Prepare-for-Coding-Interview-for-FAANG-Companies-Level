@@ -1,7 +1,7 @@
 |Tree (1 solved from 141) LeetCode Problems links:|
 |---|
 |[List of all Tree Problems on LeetCode](https://leetcode.com/problemset/all/?topicSlugs=tree)|  
-|[94.	Binary Tree Inorder Traversal](    https://leetcode.com/problems/binary-tree-inorder-traversal)|  
+|[:white_check_mark: 94.	Binary Tree Inorder Traversal](    https://leetcode.com/problems/binary-tree-inorder-traversal)|  
 |[95. Unique Binary Search Trees II   ](https://leetcode.com/problems/unique-binary-search-trees-ii/)|
 |[ 96. Unique Binary Search Trees   ]( https://leetcode.com/problems/unique-binary-search-trees/)|
 |[ 98.	Validate Binary Search Tree    ](https://leetcode.com/problems/validate-binary-search-tree/ )|
