@@ -1,4 +1,4 @@
-|Tree (1 solved from 141) LeetCode Problems links:|
+|Tree (3 solved from 141) LeetCode Problems links:|
 |---|
 |[List of all Tree Problems on LeetCode](https://leetcode.com/problemset/all/?topicSlugs=tree)|  
 |[94.	Binary Tree Inorder Traversal :white_check_mark:](    https://leetcode.com/problems/binary-tree-inorder-traversal)|  
@@ -16,5 +16,5 @@
 |[	107.	Binary Tree Level Order Traversal II     ](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/ )|
 |[	108.	Convert Sorted Array to Binary Search Tree     ](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/ )|
 |[110.	Balanced Binary Tree     ]( https://leetcode.com/problems/balanced-binary-tree/)|
-|[144. Binary Tree Preorder Traversal     ]( https://leetcode.com/problems/binary-tree-preorder-traversal/)|
-|[145. Binary Tree Postorder Traversal  ]( https://leetcode.com/problems/binary-tree-postorder-traversal/)|
+|[144. Binary Tree Preorder Traversal    :white_check_mark: ]( https://leetcode.com/problems/binary-tree-preorder-traversal/)|
+|[145. Binary Tree Postorder Traversal :white_check_mark: ]( https://leetcode.com/problems/binary-tree-postorder-traversal/)|
